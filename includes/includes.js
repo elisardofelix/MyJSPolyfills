@@ -5,7 +5,7 @@ if(!String.prototype.includes) {
 		if (typeof start !== 'number') {
 	      start = 0;
 	    }
-	    if (typeof caseSensitive !== 'bool') {
+	    if (typeof caseSensitive !== 'boolean') {
 	      caseSensitive = false;
 	    }
 
