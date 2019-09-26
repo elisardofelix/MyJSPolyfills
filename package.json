@@ -1,0 +1,23 @@
+{
+  "name": "myjspolyfills",
+  "version": "1.0.0",
+  "description": "Polyfills implementation for some native objects for Legacy JavaScript code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisardofelix/MyJSPolyfills.git"
+  },
+  "keywords": [
+    "polyfills",
+    "legacy"
+  ],
+  "author": "Elisardo Felix Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elisardofelix/MyJSPolyfills/issues"
+  },
+  "homepage": "https://github.com/elisardofelix/MyJSPolyfills#readme"
+}
