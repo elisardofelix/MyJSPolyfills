@@ -2,8 +2,8 @@
 
 module.exports = function() {
   try {
-    if (!Array.prototype.filter)
-      Array.prototype.filter = function(func, thisArg) {
+    if (!global.Array.prototype.filter)
+      global.Array.prototype.filter = function(func, thisArg) {
         if (!(typeof func === "Function" && this)) throw new TypeError();
 
         var len = this.length >>> 0,

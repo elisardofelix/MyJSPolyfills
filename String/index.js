@@ -12,7 +12,7 @@ module.exports = {
             caseSensitive = false;
           }
 
-          if (start + search.length > this.length) return false;
+          if (start > this.length) return false;
 
           if (caseSensitive)
             return this.toLowerCase().indexOf(str.toLowerCase(), start) !== -1;
