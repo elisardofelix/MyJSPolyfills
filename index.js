@@ -1,5 +1,9 @@
+"use strict";
+
 const helper = require("./Helper");
 
-
-helper.applyCompleteModule("String");
-
+module.exports = {
+  loadCompleteModule: helper.applyCompleteModule,
+  String: require("./String"),
+  Array: require("./Array")
+};
