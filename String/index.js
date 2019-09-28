@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  applyInclude: function() {
+  applyIncludes: function() {
     try {
       if (!String.prototype.includes) {
         String.prototype.includes = function(str, start, caseSensitive) {
