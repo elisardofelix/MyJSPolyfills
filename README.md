@@ -1,4 +1,4 @@
-# MyJSPolyfills
+# MyJSPolyfills [![NPM version][npm-image]][npm-url]
 
 Hi! here is a simple polyfill library allows you to have access to some functions of ES5 or ES6 in the Wrapper Objects that are behind the distinct data types in JavaScripts.
 
@@ -61,3 +61,6 @@ Let me know if you have any sugestion about what to impruve and feel free to sen
 ## License
 
 [MIT](LICENSE)
+
+[npm-url]: https://npmjs.org/package/myjspolyfills
+[npm-image]: http://img.shields.io/npm/v/myjspolyfills.svg
