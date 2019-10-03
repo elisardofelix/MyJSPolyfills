@@ -55,8 +55,7 @@ Just import the library then, there are two different way to apply the polyfills
 
 ## Contribute
 
-Let me know if you have any sugestion about what to impruve and feel free to send me any pull request with some new feature or fix I checked and let you know once I reviewed.
-
+Let me know if you have any suggestion about what to improve and feel free to send me any pull request with some new feature or fix I checked and let you know once I reviewed.
 
 ## License
 
